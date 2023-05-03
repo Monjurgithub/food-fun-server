@@ -1,0 +1,53 @@
+{
+    "chefs": [
+      {
+        "picture": "https://i.ibb.co/myp5KCK/bernie-almanzar-3-G96-E38-VFEA-unsplash.jpg",
+        "name": "John Smith",
+        "years_of_experience": 10,
+        "num_recipes": 50,
+        "likes": 1000,
+        "view_recipes_button": "https://example.com/chef1/recipes"
+      },
+      {
+        "picture": "https://i.ibb.co/ggbxXW0/fernando-aguilar-Sck-Kc-An-MEi-Q-unsplash.jpg",
+        "name": "Mary Lee",
+        "years_of_experience": 8,
+        "num_recipes": 40,
+        "likes": 800,
+        "view_recipes_button": "https://example.com/chef2/recipes"
+      },
+      {
+        "picture": "https://i.ibb.co/5FYzLnR/janko-ferlic-2oi-JD1q-JNEQ-unsplash.jpg",
+        "name": "David Nguyen",
+        "years_of_experience": 5,
+        "num_recipes": 20,
+        "likes": 500,
+        "view_recipes_button": "https://example.com/chef3/recipes"
+      },
+      {
+        "picture": "https://i.ibb.co/BZysbJ3/jopopz-tallorin-Rny5u2-Jwah-I-unsplash.jpg",
+        "name": "Linda Chen",
+        "years_of_experience": 12,
+        "num_recipes": 60,
+        "likes": 1200,
+        "view_recipes_button": "https://example.com/chef4/recipes"
+      },
+      {
+        "picture": "https://i.ibb.co/3Ry8Tfx/owen-bruce-hc-ET0-JIGXo-I-unsplash.jpg",
+        "name": "Michael Kim",
+        "years_of_experience": 7,
+        "num_recipes": 30,
+        "likes": 700,
+        "view_recipes_button": "https://example.com/chef5/recipes"
+      },
+      {
+        "picture": "https://i.ibb.co/4KMdXLW/lucas-law-aq74k-Hj5-Btk-unsplash.jpg",
+        "name": "Sarah Johnson",
+        "years_of_experience": 3,
+        "num_recipes": 10,
+        "likes": 300,
+        "view_recipes_button": "https://example.com/chef6/recipes"
+      }
+    ]
+  }
+  
