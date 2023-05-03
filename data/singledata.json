@@ -1,0 +1,312 @@
+{
+    "chefs": [
+      {
+        "id" : "1",
+        "picture": "https://i.ibb.co/myp5KCK/bernie-almanzar-3-G96-E38-VFEA-unsplash.jpg",
+        "name": "John Smith",
+        "years_of_experience": 10,
+        "num_recipes": 50,
+        "likes": 1000,
+        "despriction" :"I am the best chef in our country",
+        "recipes": [
+          {
+            "name": "Spaghetti Bolognese",
+            "ingredients": [
+              "1 pound spaghetti",
+              "1 pound ground beef",
+              "1 onion, chopped",
+              "2 cloves garlic, minced",
+              "1 can tomato sauce"
+            ],
+            "cooking_method": "1. Cook spaghetti according to package instructions. 2. Brown ground beef in a large skillet. 3. Add onion and garlic and cook until softened. ",
+            "rating": 4.5,
+            "favorite_button": "https://example.com/recipe1/favorite"
+          },
+          {
+            "name": "Grilled Chicken Salad",
+            "ingredients": [
+              "2 boneless, skinless chicken breasts",
+              "1 head lettuce, chopped",
+              "1 cucumber, sliced",
+              "1 tomato, chopped",
+              "1/2 cup croutons"
+            ],
+            "cooking_method": "1. Season chicken 2. Grill chicken over medium  3. Cut chicken  4. Combine lettuce,5. Add chicken to bowl and toss. 6. Serve with dressing.",
+            "rating": 4.2,
+            "favorite_button": "https://example.com/recipe2/favorite"
+          },
+          {
+            "name": "Chocolate Chip Cookies",
+            "ingredients": [
+              "2 1/4 cups all-purpose flour",
+              "1 tsp baking soda",
+              "1 tsp salt",
+              "1 cup unsalted butter, softened",
+              "3/4 cup white sugar"
+            ],
+            "cooking_method": "1. Preheat oven to 375 degrees F. 2. Combine flour, baking soda, and salt in a bowl. 3. Cream butter, white sugar, and brown sugar in a separate bowl. 4. Beat in eggs and vanilla extract. 5. Gradually add flour mixture to butter mixture, mixing well. ",
+            "rating": 4.8,
+            "favorite_button": "https://example.com/recipe3/favorite"
+          }
+        ]
+      },
+      {
+        "id" : "2",
+        "picture": "https://i.ibb.co/ggbxXW0/fernando-aguilar-Sck-Kc-An-MEi-Q-unsplash.jpg",
+        "name": "Mary Lee",
+        "years_of_experience": 8,
+        "num_recipes": 40,
+        "likes": 800,
+        "despriction" :"I am the best chef in our country",
+        "recipes": [
+            {
+                "name": "Spicy Tomato Soup",
+                "ingredients": [
+                    "2 tablespoons olive oil",
+                    "1 onion, chopped",
+                    "2 garlic cloves, minced",
+                    "1 tablespoon paprika",
+                    "1 teaspoon cumin",
+                    "1 can chopped tomatoes"
+                    
+                ],
+                "cooking_method": "1. Heat olive oil in a pot over medium heat. 2. Add chopped onion and garlic and sauté until fragrant. 3. Add paprika and cumin and stir for a minute. 4. Add chopped tomatoes and chicken or vegetable stock and bring to a boil. 5. Reduce heat and simmer for 15 minutes.",
+                "rating": 4.5,
+                "favorite_button": "https://example.com/recipe1/favorite"
+            },
+            {
+                "name": "Roasted Vegetable Lasagna",
+                "ingredients": [
+                    "2 zucchinis, sliced",
+                    "2 yellow squash, sliced",
+                    "1 red bell pepper, sliced",
+                    "1 yellow onion, chopped",
+                    "3 cloves garlic, minced"
+                    
+                ],
+                "cooking_method": "1. Preheat oven to 400 degrees F. 2. Place sliced zucchinis, yellow squash, red bell pepper, and chopped onion on a baking sheet. 3. Drizzle with olive oil and sprinkle with salt and pepper. 4. Roast in the oven for 20-25 minutes. 5. In a bowl, mix tomato sauce and heavy cream.",
+                "rating": 4.2,
+                "favorite_button": "https://example.com/recipe2/favorite"
+            },
+            {
+                "name": "Pan-Seared Salmon",
+                "ingredients": [
+                    "4 salmon fillets",
+                    "2 tablespoons olive oil",
+                    "Salt and pepper",
+                    "1 lemon, sliced",
+                    "1/4 cup chopped fresh parsley"
+                ],
+                "cooking_method": "1. Heat olive oil in a large skillet over medium heat. 2. Season salmon fillets with salt and pepper. 3. Place salmon fillets in the skillet skin-side down. 4. Cook for 4-5 minutes or until skin is crispy. 5. Flip salmon fillets and cook for an additional 2-3 minutes. ",
+                "rating": 4.8,
+                "favorite_button": "https://example.com/recipe3/favorite"
+            }
+        ]
+      },
+      {
+        "id" : "3",
+        "picture": "https://i.ibb.co/5FYzLnR/janko-ferlic-2oi-JD1q-JNEQ-unsplash.jpg",
+        "name": "David Nguyen",
+        "years_of_experience": 5,
+        "num_recipes": 20,
+        "likes": 500,
+        "despriction" :"I am the best chef in our country",
+        "recipes": [
+            {
+              "name": "Spaghetti Bolognese",
+              "ingredients": [
+                "1 pound spaghetti",
+                "1 pound ground beef",
+                "1 onion, chopped",
+                "2 cloves garlic, minced",
+                "1 can tomato sauce"
+              ],
+              "cooking_method": "1. Cook spaghetti according to package instructions. 2. Brown ground beef in a large skillet. 3. Add onion and garlic and cook until softened. 4. Add tomato sauce and simmer for 10 minutes. 5. Serve sauce over spaghetti.",
+              "rating": 4.5,
+              "favorite_button": "https://example.com/recipe1/favorite"
+            },
+            {
+              "name": "Grilled Chicken Salad",
+              "ingredients": [
+                "2 boneless, skinless chicken breasts",
+                "1 head lettuce, chopped",
+                "1 cucumber, sliced",
+                "1 tomato, chopped",
+                "1/2 cup croutons"
+              ],
+              "cooking_method": "1. Season chicken with salt and pepper. 2. Grill chicken over medium heat until cooked through. 3. Cut chicken into bite-sized pieces. 4. Combine lettuce, cucumber, tomato, and croutons in a large bowl. 5. Add chicken to bowl and toss. 6. Serve with dressing of your choice.",
+              "rating": 4.2,
+              "favorite_button": "https://example.com/recipe2/favorite"
+            },
+            {
+              "name": "Chocolate Chip Cookies",
+              "ingredients": [
+                "2 1/4 cups all-purpose flour",
+                "1 tsp baking soda",
+                "1 tsp salt",
+                "1 cup unsalted butter, softened",
+                "3/4 cup white sugar"
+              ],
+              "cooking_method": "1. Preheat oven to 375 degrees F. 2. Combine flour, baking soda, and salt in a bowl. 3. Cream butter, white sugar, and brown sugar in a separate bowl. 4. Beat in eggs and vanilla extract. 5. Gradually add flour mixture to butter mixture, mixing well.",
+              "rating": 4.8,
+              "favorite_button": "https://example.com/recipe3/favorite"
+            }
+          ]
+      },
+      {
+        "id" : "4",
+        "picture": "https://i.ibb.co/BZysbJ3/jopopz-tallorin-Rny5u2-Jwah-I-unsplash.jpg",
+        "name": "Linda Chen",
+        "years_of_experience": 12,
+        "num_recipes": 60,
+        "likes": 1200,
+        "despriction" :"I am the best chef in our country",
+        "recipes": [
+          {
+            "name": "Spaghetti Bolognese",
+            "ingredients": [
+              "1 pound spaghetti",
+              "1 pound ground beef",
+              "1 onion, chopped",
+              "2 cloves garlic, minced",
+              "1 can tomato sauce"
+            ],
+            "cooking_method": "1. Cook spaghetti according to package instructions. 2. Brown ground beef in a large skillet. 3. Add onion and garlic and cook until softened. 4. Add tomato sauce and simmer for 10 minutes. 5. Serve sauce over spaghetti.",
+            "rating": 4.5,
+            "favorite_button": "https://example.com/recipe1/favorite"
+          },
+          {
+            "name": "Grilled Chicken Salad",
+            "ingredients": [
+              "2 boneless, skinless chicken breasts",
+              "1 head lettuce, chopped",
+              "1 cucumber, sliced",
+              "1 tomato, chopped",
+              "1/2 cup croutons"
+            ],
+            "cooking_method": "1. Season chicken with salt and pepper. 2. Grill chicken over medium heat until cooked through. 3. Cut chicken into bite-sized pieces. 4. Combine lettuce, cucumber, tomato, and croutons in a large bowl. 5. Add chicken to bowl and toss.",
+            "rating": 4.2,
+            "favorite_button": "https://example.com/recipe2/favorite"
+          },
+          {
+            "name": "Chocolate Chip Cookies",
+            "ingredients": [
+              "2 1/4 cups all-purpose flour",
+              "1 tsp baking soda",
+              "1 tsp salt",
+              "1 cup unsalted butter, softened",
+              "3/4 cup white sugar"
+              
+            ],
+            "cooking_method": "1. Preheat oven to 375 degrees F. 2. Combine flour, baking soda, and salt in a bowl. 3. Cream butter, white sugar, and brown sugar in a separate bowl. 4. Beat in eggs and vanilla extract. 5. Gradually add flour mixture to butter mixture, mixing well.",
+            "rating": 4.8,
+            "favorite_button": "https://example.com/recipe3/favorite"
+          }
+        ]
+      },
+      {
+        "id" : "5",
+        "picture": "https://i.ibb.co/3Ry8Tfx/owen-bruce-hc-ET0-JIGXo-I-unsplash.jpg",
+        "name": "Michael Kim",
+        "years_of_experience": 7,
+        "num_recipes": 30,
+        "likes": 700,
+        "despriction" :"I am the best chef in our country",
+        "recipes": [
+          {
+            "name": "Spaghetti Bolognese",
+            "ingredients": [
+              "1 pound spaghetti",
+              "1 pound ground beef",
+              "1 onion, chopped",
+              "2 cloves garlic, minced",
+              "1 can tomato sauce"
+            ],
+            "cooking_method": "1. Cook spaghetti according to package instructions. 2. Brown ground beef in a large skillet. 3. Add onion and garlic and cook until softened. 4. Add tomato sauce and simmer for 10 minutes. 5. Serve sauce over spaghetti.",
+            "rating": 4.5,
+            "favorite_button": "https://example.com/recipe1/favorite"
+          },
+          {
+            "name": "Grilled Chicken Salad",
+            "ingredients": [
+              "2 boneless, skinless chicken breasts",
+              "1 head lettuce, chopped",
+              "1 cucumber, sliced",
+              "1 tomato, chopped",
+              "1/2 cup croutons"
+            ],
+            "cooking_method": "1. Season chicken with salt and pepper. 2. Grill chicken over medium heat until cooked through. 3. Cut chicken into bite-sized pieces. 4. Combine lettuce, cucumber, tomato, and croutons in a large bowl. 5. Add chicken to bowl and toss.",
+            "rating": 4.2,
+            "favorite_button": "https://example.com/recipe2/favorite"
+          },
+          {
+            "name": "Chocolate Chip Cookies",
+            "ingredients": [
+              "2 1/4 cups all-purpose flour",
+              "1 tsp baking soda",
+              "1 tsp salt",
+              "1 cup unsalted butter, softened",
+              "3/4 cup white sugar"
+            ],
+            "cooking_method": "1. Preheat oven to 375 degrees F. 2. Combine flour, baking soda, and salt in a bowl. 3. Cream butter, white sugar, and brown sugar in a separate bowl. 4. Beat in eggs and vanilla extract. 5. Gradually add flour mixture to butter mixture, mixing well.",
+            "rating": 4.8,
+            "favorite_button": "https://example.com/recipe3/favorite"
+          }
+        ]
+      },
+      {
+        "id" : "6",
+        "picture": "https://i.ibb.co/4KMdXLW/lucas-law-aq74k-Hj5-Btk-unsplash.jpg",
+        "name": "Sarah Johnson",
+        "years_of_experience": 3,
+        "num_recipes": 10,
+        "likes": 300,
+        "despriction" :"I am the best chef in our country",
+        "recipes": [
+          {
+            "name": "Spaghetti Bolognese",
+            "ingredients": [
+              "1 pound spaghetti",
+              "1 pound ground beef",
+              "1 onion, chopped",
+              "2 cloves garlic, minced",
+              "1 can tomato sauce"
+            ],
+            "cooking_method": "1. Cook spaghetti according to package instructions. 2. Brown ground beef in a large skillet. 3. Add onion and garlic and cook until softened. 4. Add tomato sauce and simmer for 10 minutes. 5. Serve sauce over spaghetti.",
+            "rating": 4.5,
+            "favorite_button": "https://example.com/recipe1/favorite"
+          },
+          {
+            "name": "Grilled Chicken Salad",
+            "ingredients": [
+              "2 boneless, skinless chicken breasts",
+              "1 head lettuce, chopped",
+              "1 cucumber, sliced",
+              "1 tomato, chopped",
+              "1/2 cup croutons"
+            ],
+            "cooking_method": "1. Season chicken with salt and pepper. 2. Grill chicken over medium heat until cooked through. 3. Cut chicken into bite-sized pieces. 4. Combine lettuce, cucumber, tomato, and croutons in a large bowl. 5. Add chicken to bowl and toss. 6. Serve with dressing of your choice.",
+            "rating": 4.2,
+            "favorite_button": "https://example.com/recipe2/favorite"
+          },
+          {
+            "name": "Chocolate Chip Cookies",
+            "ingredients": [
+              "2 1/4 cups all-purpose flour",
+              "1 tsp baking soda",
+              "1 tsp salt",
+              "1 cup unsalted butter, softened",
+              "3/4 cup white sugar"
+              
+            ],
+            "cooking_method": "1. Preheat oven to 375 degrees F. 2. Combine flour, baking soda, and salt in a bowl. 3. Cream butter, white sugar, and brown sugar in a separate bowl. 4. Beat in eggs and vanilla extract. 5. Gradually add flour mixture to butter mixture, mixing well.",
+            "rating": 4.8,
+            "favorite_button": "https://example.com/recipe3/favorite"
+          }
+        ]
+      }
+    ]
+}
+
+
+     
